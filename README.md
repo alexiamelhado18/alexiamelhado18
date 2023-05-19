@@ -1,8 +1,6 @@
 
 ### <div align="center"><h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=25&pause=1000&color=84AAFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Al%C3%A9xia+Vit%C3%B3ria+%E2%9C%A8%F0%9F%A4%97;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a></h1></div>
-- 👩‍🏫 Atualmente sou Instrutora de Formação Profissional II no SENAI 1.34
-- 📚 Tecnologias que estou me aperfeiçoando: Java, MySql, TypeScript e Kotlin 
-- 👩‍🎓 Sou estudante em ADS (4/5) e Técnica em Desenvolvimento de Sistemas
+<p align="center">Atualmente sou Instrutora de Formação Profissional II no SENAI 1.34 👩‍🏫. Estou me aperfeiçoando nas linguagens Java, MySql, TypeScript e Kotlin 💻. Também sou Técnica em Desenvolvimento de Sistemas 👩‍💻 e estudante em Análise em Desenvolvimento de Sistemas (4/5) 👩‍🎓. Além disso, gosto muito de jogar Clash Royale 🎮, brincar com meus cachorros e minha gatinha 🐶🐱, cantar 🎤 e tudo relacionado a estética 💄.</p>
  
 <div align="center"><br>
     <a href="https://github.com/alexiamelhado18">
