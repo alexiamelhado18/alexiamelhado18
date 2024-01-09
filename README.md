@@ -1,6 +1,6 @@
 
 ### <div align="center"><h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&size=25&pause=1000&color=84AAFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1!+Eu+sou+Al%C3%A9xia+Vit%C3%B3ria+%E2%9C%A8%F0%9F%A4%97;Seja+bem-vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a></h1></div>
-<p align="center">Atualmente sou Instrutora de Formação Profissional II no SENAI 1.34 👩‍🏫, Técnica em Desenvolvimento de Sistemas 👩‍💻 e estudante em Análise em Desenvolvimento de Sistemas (4/5) 👩‍🎓.</p>
+<p align="center">Atualmente sou Instrutora de Formação Profissional II no SENAI 1.34 👩‍🏫, Técnica em Desenvolvimento de Sistemas 👩‍💻 e estudante em Análise em Desenvolvimento de Sistemas (5/5) 👩‍🎓.</p>
  
 <div align="center"><br>
     <a href="https://github.com/alexiamelhado18">
