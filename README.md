@@ -104,8 +104,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alexiamelhado18/alexiamelhado18/output/snake.svg" alt="Snake animation" />
-
-###
 
 
